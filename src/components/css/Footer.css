@@ -1,0 +1,14 @@
+.ui.inverted.header{
+    width: 100%;
+    font-family: Impact;
+    text-align: left;
+}
+.ui.pink.segment.copyright{
+    background-color: #E03997;
+    box-shadow: none;
+    border: none;
+    transform: translateY(5em);
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}

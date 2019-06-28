@@ -1,0 +1,31 @@
+.contact_header1{
+    background-image: url("../../asset/contact_header1.png");
+    width: 100%;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+}
+.contact_header2{
+    font-size: 24px;
+    font-family: Impact;
+    color: white;
+    padding: 15px;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+
+.contact_form{
+    /*text-align: center;*/
+    width: 80%;
+}
+.contact.part2{
+    width: 100%;
+}
+.contact.part3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ui.dividing.header{
+    width: 100%;
+    text-align: left;
+}

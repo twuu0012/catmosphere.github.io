@@ -1,0 +1,33 @@
+.title_container{
+
+    /*padding-top: 300px;*/
+    /*padding-bottom: 300px;*/
+    width: 100%;
+    background-image: url("../../asset/homepage_1.jpg");
+    background-color: grey;
+    opacity: 0.8;
+    background-size: cover;
+    background-position: center;
+
+}
+.homepage_title{
+    font-size: 50px;
+    text-align: center;
+    line-height: 60px;
+    color: azure;
+}
+.section_title{
+    font-size: 24px;
+    font-family: Impact;
+    color: rebeccapurple;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    background-color: #E7E7D5;
+}
+.strong_word{
+    font-weight: bold;
+}
+.homepage{
+    margin-top: 50px;
+}
